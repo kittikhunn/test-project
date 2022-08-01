@@ -1,2 +1,2 @@
 # Random project
-which is used to learn git
+which is used to learn git :D
